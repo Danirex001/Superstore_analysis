@@ -1,0 +1,8 @@
+.venv/
+desktop.ini
+# jupyter notebooks
+.ipynb_chechpoints/
+__psycache__/
+*.pyc 
+*.pyo
+questions.md
