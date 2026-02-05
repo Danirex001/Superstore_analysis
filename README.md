@@ -24,6 +24,8 @@ This project analyzes superstores sales data to uncover trends in revenue,profit
 ## 🖼️ Dashboard Preview
 ![Dashboard Screenshot](outputs/Superstore.png)
 
+To interact with the Dashboard in tableau public click :![here](superstore_dashboard | Tableau Public )
+
 ## 🎯 Problem objectives 
 This project seeks to understand the discount campaign objectives and actually find out if discounts are increasing market share/ profits or are just cutting our profits and it seeks to find out how can we reduce the number of days of delivery time based on our shipmode.
 
